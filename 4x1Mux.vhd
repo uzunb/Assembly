@@ -1,5 +1,3 @@
---Beyza KARALI  365353   Grup: A7
--- 3 Bitli 4X1 MUX 
 
 Library IEEE;
 Use IEEE.std_logic_1164.all;
